@@ -23,7 +23,7 @@ Each entry includes:
 
 ## Vulnerabilities Covered
 
-### RedSun
+## RedSun
 
 | Attribute | Detail |
 |:---|:---|
@@ -39,7 +39,7 @@ RedSun is a zero-day LPE vulnerability that allows a low-privileged user to gain
 
 ---
 
-### BlueHammer
+## BlueHammer
 
 | Attribute | Detail |
 |:---|:---|
@@ -55,7 +55,7 @@ BlueHammer exploits a vulnerability caused by insufficient access control granul
 
 ---
 
-### GreenPlasma
+## GreenPlasma
 
 | Attribute | Detail |
 |:---|:---|
@@ -71,7 +71,7 @@ GreenPlasma targets CTFMON (`ctfmon.exe`), a trusted Windows process that runs a
 
 ---
 
-### YellowKey
+## YellowKey
 
 | Attribute | Detail |
 |:---|:---|
@@ -87,7 +87,7 @@ YellowKey is a BitLocker security feature bypass vulnerability. The proof of con
 
 ---
 
-### GreatXML
+## GreatXML
 
 | Attribute | Detail |
 |:---|:---|
@@ -101,7 +101,7 @@ The researcher claims the exploit works if Windows Defender Offline Scan has bee
 
 ---
 
-### RoguePlanet
+## RoguePlanet
 
 | Attribute | Detail |
 |:---|:---|
@@ -119,7 +119,7 @@ RoguePlanet is a high-severity zero-day in Microsoft Defender that exploits a ra
 
 ---
 
-### UnDefend
+## UnDefend
 
 | Attribute | Detail |
 |:---|:---|
@@ -139,7 +139,3 @@ UnDefend is a defense-evasion tool that abuses logic flaws in Microsoft Defender
 **CISA KEV Status:** Added to CISA's Known Exploited Vulnerabilities catalog.
 
 ---
-
-## Repository Structure
-
-
